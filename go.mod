@@ -1,3 +1,3 @@
 module github.com/remoteit/systemkit-helpers-os
 
-go 1.13
+go 1.15
